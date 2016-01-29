@@ -1,0 +1,40 @@
+.rojo{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.morado{
+	background-color: purple;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 50px;
+	top: 50px;
+}
+.amarillo{
+	background-color: yellow;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+.azul{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	position: static;	
+}
+.negro{
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	position: static;
+}
+.verde{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 50px;
+	top:50px;
+}
